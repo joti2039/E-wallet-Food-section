@@ -1,0 +1,16 @@
+.navbar a {
+    float: left;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    color: black;
+    text-align: center;
+    padding: 10% ;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
